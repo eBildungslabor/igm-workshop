@@ -4,7 +4,7 @@ layout: default
 license: CC0 1.0
 ---
 
-# "Workshop-Konzeption: Warm Up- und Kennenlern-Methoden - vor Ort und online
+# Workshop-Konzeption: Warm Up- und Kennenlern-Methoden - vor Ort und online
 
 ## Rahmen
 
