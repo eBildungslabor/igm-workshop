@@ -34,3 +34,5 @@ Kennenlernen und WarmUp Methoden, die sowohl online, wie offline funktionieren.
 ## Themenspeicher
 
 * Gut wäre eine Weiternutzung der vorgestellten und ausprobierten Methoden. Vielleicht kann dazu mit den Teilnehmenden eine Best-Of Sammlung als OER entwickelt werden.
+* Vielleicht wollen wir gar nicht nur Methoden vorstellen, sondern gemeinsam neue Methoden erfinden.
+
