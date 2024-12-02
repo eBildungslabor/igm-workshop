@@ -17,6 +17,13 @@ license: CC0 1.0
 
 Kennenlernen und WarmUp Methoden, die sowohl online, wie offline funktionieren.
 
+## Ablauf
+
+1. Guido und Nele sagen 'Hallo' - wir machen eine schnelle Chatvorstellung: Wer ist hier?
+2. Kurzer Input von Nele: drei Online-Methoden und drei vor Ort-Methoden - und warum sie jeweils gut funktionieren. These: Bei der Umwandlung nicht eins zu eins übertragen, sondern die jeweiligen Stärken des genutzten Raumes in den Blick nehmen.
+3. Mini-Werkstatt: Wir sammeln via Mindwendel sowohl Vor-Ort als auch Online-Methoden, die Lieblings-Methoden der Teilnehmenden sind. Reihum darf jede Person eine Methode auswählen - und gemeinsam überlegen wir eine Transformation.
+4. Abschluss: Ankündigung der Aufbereitung der Inhalte und falls gewünscht ein schnelles Blitzlicht.
+
 ## Mögliche Methoden, die wir vorstellen können
 
 ### 1. Speed-Dating (Fokus: Kennenlernen)
